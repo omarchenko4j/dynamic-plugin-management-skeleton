@@ -1,0 +1,1 @@
+# dynamic-plugin-management-skeleton
